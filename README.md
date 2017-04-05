@@ -15,6 +15,10 @@ HOME PAGE:
 
 ![home page](https://cloud.githubusercontent.com/assets/26940586/24729431/df90d01e-1a66-11e7-8846-20d1a3e4395c.png)
 
+NAVIGATON BAR:
+
+![navigation menu](https://cloud.githubusercontent.com/assets/26940586/24730555/e4e93e7e-1a6c-11e7-8883-1a95aa3fc3e6.png)
+
 TAILORS LOGIN PAGE:
 
 ![login page](https://cloud.githubusercontent.com/assets/26940586/24729432/df91ca82-1a66-11e7-938e-fea51e45fbae.png)
