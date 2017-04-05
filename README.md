@@ -11,15 +11,23 @@ The App has been uploaded and is in a winRAR file among the files.
 
 Here are the scrrenshots;
 
-
+HOME PAGE:
 
 ![home page](https://cloud.githubusercontent.com/assets/26940586/24729431/df90d01e-1a66-11e7-8846-20d1a3e4395c.png)
 
+LOGIN PAGE:
+
 ![login page](https://cloud.githubusercontent.com/assets/26940586/24729432/df91ca82-1a66-11e7-938e-fea51e45fbae.png)
+
+PROFILE PAGE 1:
 
 ![profile page 1](https://cloud.githubusercontent.com/assets/26940586/24729435/dfd3129e-1a66-11e7-8641-c499c338ed72.png)
 
+PROFILE PAGE 2:
+
 ![profile page 2](https://cloud.githubusercontent.com/assets/26940586/24729436/dfd86b5e-1a66-11e7-9dd9-fcbf76e7b042.png)
+
+CHANGE PASSWORD DIALOG:
 
 ![change password dialog](https://cloud.githubusercontent.com/assets/26940586/24729441/e0159c54-1a66-11e7-845d-320e322e9e5b.png)
 
