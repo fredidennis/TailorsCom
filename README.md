@@ -1,9 +1,9 @@
 # TailorsCom
-an android application for connecting tailors and their clients
+An android application for connecting tailors and their clients
 
-My name is Fred, TailorsCome is my first android android application i will be sharing parts of my code if requested for but untill then i will just post screenshots of the app
+My name is Fred, TailorsCom is my first android android application I will be sharing parts of my code if requested for but until then I will just post screenshots of the app.
 
-The App works for android 5.1 and abouve.
+The App works for android 5.1 and above.
 
 The App is still under development so expected bugs in the app might be noted.
 
