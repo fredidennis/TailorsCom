@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">TailorsCom</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="intro">The Tailors Com is the place for tailors to expand their business and clients to meet and create new customized outfits. Is the perfect pool to find the right tailor and to keep you up with the latest fashion trend.\nPress the Menu button for more features.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="my_email"><a href="http://www.gmail.com">fredidennis@gmai.com</a></string>
+    <string name="tailors_com"><u>Tailors Com</u></string>
+
+    <string-array name="speciality">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Both</item>
+    </string-array>
+
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="location">
+        <item>Nairobi</item>
+        <item>Kiambu</item>
+        <item>Githurai</item>
+        <item>Nyeri</item>
+        <item>Mlolongo</item>
+        <item>Syokimau</item>
+        <item>Kisumu</item>
+        <item>Nakuru</item>
+        <item>Embu</item>
+        <item>Kakamega</item>
+        <item>Dagoreti</item>
+        <item>Kikuyu</item>
+        <item>Mombasa</item>
+        <item>Machakos</item>
+        <item>Utawala</item>
+        <item>Embakasi</item>
+        <item>Westlands</item>
+        <item>Olsoaps</item>
+        <item>Ruiru</item>
+        <item>Ruai</item>
+        <item>Karen</item>
+        <item>Githunguri</item>
+        <item>Juja</item>
+        <item>Thika</item>
+
+    </string-array>
+</resources>

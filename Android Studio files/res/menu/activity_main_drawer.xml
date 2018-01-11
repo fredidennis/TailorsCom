@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_Home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Home" />
+
+        <item android:title="Tailor's Domain">
+            <menu>
+                <item
+                    android:id="@+id/nav_login"
+                    android:icon="@drawable/ic_person_login_24dp"
+                    android:title="Login" />
+                <item
+                    android:id="@+id/nav_register"
+                    android:icon="@drawable/ic_register_add_black_24dp"
+                    android:title="Register" />
+            </menu>
+        </item>
+        <item android:title="User's Domain">
+            <menu>>
+                <item
+                    android:id="@+id/nav_gallery"
+                    android:icon="@drawable/ic_menu_gallery"
+                    android:title="Gallery" />
+                <item
+                    android:id="@+id/nav_find_a_tailor"
+                    android:icon="@drawable/ic_search_black_24dp"
+                    android:title="Find A tailor" />
+                <item
+                    android:id="@+id/nav_faq"
+                    android:icon="@drawable/ic_help_outline_black_24dp"
+                    android:title="About Us" />
+            </menu>
+        </item>
+    </group>
+
+
+</menu>
