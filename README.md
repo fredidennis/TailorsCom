@@ -1,4 +1,4 @@
-# TailorsCom
+# TailorsCom V1
 An android application for connecting tailors and their clients
 
 My name is Fred, TailorsCom is my first android android application I will be sharing parts of my code if requested for but until then I will just post screenshots of the app.
