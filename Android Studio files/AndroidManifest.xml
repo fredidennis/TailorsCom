@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.tailorscom.fred.tailorscom">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-feature
+        android:name="android.hardware.camera2"
+        android:required="true" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".recyclerviews.ProfilePicUpload_secondary" />
+        <activity android:name=".profilePicUpload_package.UploadProfilePicMainActivity" />
+        <activity android:name=".uplvdown_package.ViewImage" />
+        <activity android:name=".uplvdown_package.GetAllGalleryActivity" />
+        <activity android:name=".recyclerviews.RecyclerMainActivity" />
+        <activity android:name=".recycleviewsTest.TestRecyclerMainActivity" />
+        <activity android:name=".galleryFeed_package.GalleryFeed" />
+        <activity android:name=".galleryUpload_package.UploadGalleryPicMainActivity" />
+        <activity android:name=".findTailor_package.FindTailorActivity" />
+        <activity android:name=".findTailor_package.FindTailorFeedActivity" />
+        <activity android:name=".findTailor_package.FindAllTailorsActivity" />
+        <activity android:name=".tailorGallery_package.TailorGalleryActivity"/>
+    </application>
+
+</manifest>
